@@ -1,0 +1,1 @@
+import{Ig as o,R as r,U as i}from"./chunk-4LPE7HNY.js";var u=(()=>{let t=class t{constructor(e){this.accountService=e}canActivate(){return this.accountService.authenticated()?!0:(this.accountService.onLogout(),!1)}};t.\u0275fac=function(n){return new(n||t)(i(o))},t.\u0275prov=r({token:t,factory:t.\u0275fac,providedIn:"root"});let c=t;return c})();export{u as a};
